@@ -1,0 +1,15 @@
+C:\Users\sergio.perez\source\repos\MHCodingExercise\MHCodingExercise\bin\Debug\net6.0\MHCodingExercise.exe
+C:\Users\sergio.perez\source\repos\MHCodingExercise\MHCodingExercise\bin\Debug\net6.0\MHCodingExercise.deps.json
+C:\Users\sergio.perez\source\repos\MHCodingExercise\MHCodingExercise\bin\Debug\net6.0\MHCodingExercise.runtimeconfig.json
+C:\Users\sergio.perez\source\repos\MHCodingExercise\MHCodingExercise\bin\Debug\net6.0\MHCodingExercise.dll
+C:\Users\sergio.perez\source\repos\MHCodingExercise\MHCodingExercise\bin\Debug\net6.0\MHCodingExercise.pdb
+C:\Users\sergio.perez\source\repos\MHCodingExercise\MHCodingExercise\obj\Debug\net6.0\MHCodingExercise.csproj.AssemblyReference.cache
+C:\Users\sergio.perez\source\repos\MHCodingExercise\MHCodingExercise\obj\Debug\net6.0\MHCodingExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergio.perez\source\repos\MHCodingExercise\MHCodingExercise\obj\Debug\net6.0\MHCodingExercise.AssemblyInfoInputs.cache
+C:\Users\sergio.perez\source\repos\MHCodingExercise\MHCodingExercise\obj\Debug\net6.0\MHCodingExercise.AssemblyInfo.cs
+C:\Users\sergio.perez\source\repos\MHCodingExercise\MHCodingExercise\obj\Debug\net6.0\MHCodingExercise.csproj.CoreCompileInputs.cache
+C:\Users\sergio.perez\source\repos\MHCodingExercise\MHCodingExercise\obj\Debug\net6.0\MHCodingExercise.dll
+C:\Users\sergio.perez\source\repos\MHCodingExercise\MHCodingExercise\obj\Debug\net6.0\refint\MHCodingExercise.dll
+C:\Users\sergio.perez\source\repos\MHCodingExercise\MHCodingExercise\obj\Debug\net6.0\MHCodingExercise.pdb
+C:\Users\sergio.perez\source\repos\MHCodingExercise\MHCodingExercise\obj\Debug\net6.0\MHCodingExercise.genruntimeconfig.cache
+C:\Users\sergio.perez\source\repos\MHCodingExercise\MHCodingExercise\obj\Debug\net6.0\ref\MHCodingExercise.dll
